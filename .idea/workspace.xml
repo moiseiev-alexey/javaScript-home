@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ba2b234d-070d-4393-be79-015d2bf978bf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.js" beforeDir="false" afterPath="$PROJECT_DIR$/style.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../home-2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../home-2/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,6 +39,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -68,6 +70,7 @@
       <workItem from="1570460233715" duration="3000" />
       <workItem from="1570460953119" duration="3000" />
       <workItem from="1570460961447" duration="3000" />
+      <workItem from="1570475446447" duration="176000" />
     </task>
     <servers />
   </component>
